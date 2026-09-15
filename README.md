@@ -11,7 +11,7 @@ Construir uma página web estruturada de forma organizada com o limite rigoroso 
 ### 🧱 Elementos Essenciais
 * **Estrutura básica:** Título e parágrafos com formatações de texto em **negrito** e *itálico*.
 * **Lista:** Uma lista (ordenada ou não ordenada) detalhando consoles ou jogos.
-* **Navegação:** Pelo menos um link interno (âncora) e um link externo funcional.
+* **Navegação:** Pelo menos um link interno e um link externo funcional.
 * **Imagem:** Uma foto/elemento visual relacionado ao tema retrô.
 * **Tabela:** Uma tabela simples de produtos e preços com no mínimo 3 itens.
 
