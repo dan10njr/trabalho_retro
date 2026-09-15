@@ -4,7 +4,7 @@
 Este repositório contém a solução do mini desafio de desenvolvimento web. O objetivo é criar uma página promocional compacta e funcional para a **GameZone Retro**, uma loja especializada em jogos clássicos, demonstrando o domínio dos conceitos fundamentais de HTML.
 
 ## 🎯 Objetivo
-Construir uma página web estruturada de forma organizada com o limite rigoroso de **no máximo 50 linhas de código**. O foco principal é a concisão, semântica e funcionalidade sobre a aparência.
+Construir uma página web estruturada de forma organizada com o limite rigoroso de **no máximo 50 linhas de código**.
 
 ## 📝 Requisitos do Projeto
 
@@ -21,6 +21,3 @@ Construir uma página web estruturada de forma organizada com o limite rigoroso 
 * **Foco:** Código limpo, válido e organizado.
 
 ---
-🚀 **Que a força dos pixels esteja com você!**
-
-
